@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1554076036 source:c:\users\mitchell\documents\code\c++\flowerclassifier\main.cpp
+	<iostream>
+	"BitMapImage.h"
+	"Classifier.h"
+	"Histogram.h"
+	<vector>
+	<algorithm>
+	<thread>
+
+1553832141 c:\users\mitchell\documents\code\c++\flowerclassifier\include\bitmapimage.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"patch.h"
+	<float.h>
+
+1553896021 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\bitmapimage.cpp
+	"BitMapImage.h"
+
+1553589329 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\colourclassifier.cpp
+	"ColourClassifier.h"
+
+1553590312 c:\users\mitchell\documents\code\c++\flowerclassifier\include\colourclassifier.h
+	"BitMapImage.h"
+	<string>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+
+1554077992 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\classifier.cpp
+	"Classifier.h"
+
+1554076459 c:\users\mitchell\documents\code\c++\flowerclassifier\include\classifier.h
+	"Histogram.h"
+	"BitMapImage.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1553616394 c:\users\mitchell\documents\code\c++\flowerclassifier\include\colourhistogram.h
+	"Histogram.h"
+
+1553616399 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\colourhistogram.cpp
+	"ColourHistogram.h"
+
+1553616410 c:\users\mitchell\documents\code\c++\flowerclassifier\include\shapehistogram.h
+	"Histogram.h"
+
+1553616405 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\shapehistogram.cpp
+	"ShapeHistogram.h"
+
+1554058182 c:\users\mitchell\documents\code\c++\flowerclassifier\include\histogram.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"BitMapImage.h"
+	<cmath>
+
+1554069646 source:c:\users\mitchell\documents\code\c++\flowerclassifier\src\histogram.cpp
+	"Histogram.h"
+
+1553614636 c:\users\mitchell\documents\code\c++\flowerclassifier\include\patch.h
+	<sstream>
+	<string>
+
+1553896021 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\src\bitmapimage.cpp
+	"BitMapImage.h"
+
+1553832141 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\bitmapimage.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"patch.h"
+	<float.h>
+
+1553614636 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\patch.h
+	<sstream>
+	<string>
+
+1554199649 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\src\classifier.cpp
+	"Classifier.h"
+
+1554199033 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\classifier.h
+	"Histogram.h"
+	"BitMapImage.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1554199108 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\histogram.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"BitMapImage.h"
+	<cmath>
+	<vector>
+
+1553616399 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\src\colourhistogram.cpp
+	"ColourHistogram.h"
+
+1553616394 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\colourhistogram.h
+	"Histogram.h"
+
+1554198932 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\src\histogram.cpp
+	"Histogram.h"
+
+1553616405 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\src\shapehistogram.cpp
+	"ShapeHistogram.h"
+
+1553616410 c:\users\mitchell\documents\code\c++\flowerclassifier - original\include\shapehistogram.h
+	"Histogram.h"
+
+1554199571 source:c:\users\mitchell\documents\code\c++\flowerclassifier - original\main.cpp
+	<iostream>
+	"BitMapImage.h"
+	"Classifier.h"
+	"Histogram.h"
+	<vector>
+	<algorithm>
+	<thread>
+
+1553896021 source:c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\src\bitmapimage.cpp
+	"BitMapImage.h"
+
+1553832141 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\bitmapimage.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"patch.h"
+	<float.h>
+
+1553614636 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\patch.h
+	<sstream>
+	<string>
+
+1554307913 source:c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\src\classifier.cpp
+	"Classifier.h"
+
+1554199033 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\classifier.h
+	"Histogram.h"
+	"BitMapImage.h"
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1554199108 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\histogram.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	"BitMapImage.h"
+	<cmath>
+	<vector>
+
+1553616399 source:c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\src\colourhistogram.cpp
+	"ColourHistogram.h"
+
+1553616394 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\colourhistogram.h
+	"Histogram.h"
+
+1554308110 source:c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\src\histogram.cpp
+	"Histogram.h"
+
+1553616405 source:c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\src\shapehistogram.cpp
+	"ShapeHistogram.h"
+
+1553616410 c:\users\mitchell\documents\code\c++\cpsc4310-project\cpsc4310-project\mymodel\flowerclassifier - original\include\shapehistogram.h
+	"Histogram.h"
+
